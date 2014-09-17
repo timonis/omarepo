@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("Testiohjelma\n");
+	printf("Tulostus muutettu\n");
 	return 0;
 }
